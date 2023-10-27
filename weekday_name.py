@@ -5,4 +5,4 @@ def weekday_name(day_of_week):
         day_name = days[day_of_week]
         print(day_name)
     else:
-        print("IMVALID DAY NUMBER!!")
+        print("INVALID DAY NUMBER!!")
